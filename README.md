@@ -34,7 +34,7 @@ The objective of this project is to analyze customer data, explore churn pattern
 
 ## 📂 Project Structure
 
-```text
+
 Customer-Churn-Analysis/
 │
 ├── customer_churn.ipynb
@@ -44,7 +44,6 @@ Customer-Churn-Analysis/
 └── README.md
 ```
 
-*Note: Update the structure to match the files in your repository. Do not include files or folders that are not present.*
 
 ## 🔍 Project Workflow
 
